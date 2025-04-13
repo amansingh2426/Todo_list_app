@@ -18,6 +18,10 @@
 </p> -->
 
 ## 💻 Tech Stack
+## Credits
+
+Made with ❤️ by [YourName](https://github.com/YourGitHubUsername), licensed under [MIT](https://github.com/YourGitHubUsername/TodoApp/blob/main/LICENSE).
+
 
 <ul style="display: flex; flex-direction: column; gap:10px;">
   <li style="vertical-align: middle;">
