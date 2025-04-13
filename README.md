@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/baner.png" />
 
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
+## https://todo-list-1uv62l88s-amans-projects-e338b4e0.vercel.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/react-cool-todo-app/deploys)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maciekt07/TodoApp?color=%23b624ff)
@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 ## Credits
 
-Made with ❤️ by [YourName](https://github.com/YourGitHubUsername), licensed under [MIT](https://github.com/YourGitHubUsername/TodoApp/blob/main/LICENSE).
+Made with ❤️ by [Aman singh](https://github.com/amansingh2426), licensed under [MIT](https://github.com/amansingh2426/TodoApp/blob/main/LICENSE).
 
 
 <ul style="display: flex; flex-direction: column; gap:10px;">
@@ -50,7 +50,7 @@ Made with ❤️ by [YourName](https://github.com/YourGitHubUsername), licensed 
 
 Easily share your tasks with others using a link or QR code, with the option to download the QR code.
 
-**[Example Link](https://react-cool-todo-app.netlify.app/share?task=N4IgJg9gdgpiBcAzAhgGwM4wDQgA4EspYwEAXAJwFdsQpkBbOeEAdRgCN19SYACAERgA3GKgi5GUUiBxgY6AMbl8uUvmgIQAYXIxkPXsl6pkUMIQDmvXMgt8A7twAWvAEp6FpAHQArdL0QIcl4FVHwYKS9eJ1JSXHR4AHpE+1SvAE8ISlJKdhgvBQh6FP0FJwB+IQBedgBZAGsoRABpAA0ASQAxAEEADgAyUiqAJgBmdH7kdgB9MtNYVCrEXRgtCDktBlwvIIsZEBh6CB98TQBGRAAWADZegFoL0cQFO+GABjewB6v2dn3CsTkTQAYnY12Gl0QiH2YH0TBA7whDzODwA7AAVM6jeCXS7wM7DLwAVlRAE4AFr-OEWILpBAAbVA+BI+NuqIJRMuZ1RN1Gb1GODojE0a3MUD2OEOx1OzAuROQRLuiBgb2hOABQRB1zABKhIAAvlgmSzhoKGPCWEF6vspSdzohRjBhv8IICQRDejA9fqALo4EzoUgAZWQIk0iMuyLRmOxuPxvS8pLeqMp+qAA&userName=Maciej)**
+**[Example Link](https://todo-list-1uv62l88s-amans-projects-e338b4e0.vercel.app/task=N4IgJg9gdgpiBcAzAhgGwM4wDQgA4EspYwEAXAJwFdsQpkBbOeEAdRgCN19SYACAERgA3GKgi5GUUiBxgY6AMbl8uUvmgIQAYXIxkPXsl6pkUMIQDmvXMgt8A7twAWvAEp6FpAHQArdL0QIcl4FVHwYKS9eJ1JSXHR4AHpE+1SvAE8ISlJKdhgvBQh6FP0FJwB+IQBedgBZAGsoRABpAA0ASQAxAEEADgAyUiqAJgBmdH7kdgB9MtNYVCrEXRgtCDktBlwvIIsZEBh6CB98TQBGRAAWADZegFoL0cQFO+GABjewB6v2dn3CsTkTQAYnY12Gl0QiH2YH0TBA7whDzODwA7AAVM6jeCXS7wM7DLwAVlRAE4AFr-OEWILpBAAbVA+BI+NuqIJRMuZ1RN1Gb1GODojE0a3MUD2OEOx1OzAuROQRLuiBgb2hOABQRB1zABKhIAAvlgmSzhoKGPCWEF6vspSdzohRjBhv8IICQRDejA9fqALo4EzoUgAZWQIk0iMuyLRmOxuPxvS8pLeqMp+qAA&userName=Maciej)**
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/RecievedTask.png" width="300px" alt="Shared Task" />
 
@@ -134,6 +134,10 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/performance.png" width="600px" />
 
 ## Credits
+## Credits
+
+Made with ❤️ by [Aman singh](https://github.com/aman2426), licensed under [MIT](https://github.com/aman2426/Todo-List-app/blob/main/LICENSE).
+
 
 ## Credits
 
